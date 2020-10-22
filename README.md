@@ -1,3 +1,8 @@
+A replacement spinner for Twister.
+
+Supports API level 16 and above.
+
+
 TODO:
 
 - settings menu to adjust timer, number of players
