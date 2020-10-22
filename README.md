@@ -6,3 +6,6 @@ TODO:
 - animated background arrow?
 - have assistant call out
 - see if easily supports older api versions
+
+
+This project is licensed under GNU GPL v3.
