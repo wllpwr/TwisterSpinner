@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">TwisterSpinner</string>
     <string name="spin">Spin</string>
+    <string name="autoBox">Auto</string>
     <string-array name="colors">
         <item name="red">red</item>
         <item name="blue">blue</item>
